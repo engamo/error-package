@@ -1,0 +1,24 @@
+{
+  "name": "error-package",
+  "version": "1.0.0",
+  "description": "Error practise for production",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/engamo/error-package.git"
+  },
+  "keywords": [
+    "authentication",
+    "validation",
+    "error"
+  ],
+  "author": "Engamo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/engamo/error-package/issues"
+  },
+  "homepage": "https://github.com/engamo/error-package#readme"
+}
